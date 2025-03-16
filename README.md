@@ -5,7 +5,7 @@ I'm a data scientist with a background in applied mathematics and machine learni
 Here are some of my most recent projects related to machine learning:
 
 - 📊 **Predicting Recreational Angler Behavior in Time and Space using Machine Learning and App data**  
-  [Schmid et al. (2025)](https://arxiv.org/abs/2409.17425) - [Repository](https://github.com/yourusername/repo-name)  
+  [Schmid et al. (2025)](https://arxiv.org/abs/2409.17425), [Repository](https://github.com/schmidj/PredictingAnglerActivityOntario)  
 
   <img src="https://github.com/schmidj/assets/blob/main/Project1.png" width = 400>
   
