@@ -18,7 +18,7 @@ Here are some of my most recent projects related to machine learning:
 Here are some more of my projects related to machine learning and modeling:
 
 - 🔍 **Predicting Soil Moisture using Machine Learning**  
-  [Houben, Ebeling, Khurana, Schmid, Boog (2025) *VZJ*]([https://arxiv.org/abs/2409.07492](https://www.ufz.de/export/data/2/261617_poster_download_20220127.pdf))  
+  [Houben, Ebeling, Khurana, Schmid, Boog (2025) *VZJ*](https://www.ufz.de/export/data/2/261617_poster_download_20220127.pdf)  
 - 📊 **Analyzing the Dynamics of Temperate Grasslands using an indiviual-based Model**  
   [Schmid et al. (2022) *OIKOS*](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.09108) - [Schmid et al. (2021) *Ecol Mod*](https://www.sciencedirect.com/science/article/pii/S0304380020304592?via%3Dihub) - [Taubert, Hetzer, Schmid, Huth (2020) *PLOS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236546) - [Taubert, Hetzer, Schmid, Huth (2020) *Ecosphere*](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3205)
 - 🚀 **Network Science Applied to Tropical Rain Forests**  
