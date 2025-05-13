@@ -4,7 +4,7 @@ I'm a data scientist with a background in applied mathematics and machine learni
 ## 🌍 Projects Overview
 Here are some of my most recent projects related to machine learning:
 
-- 📊 **Predicting Salmon Returns at threeRriver Systems using Machine Learning**
+- 📊 **Predicting Salmon Returns at threeRriver Systems using Machine Learning**  
   [Salmon Prize Project](https://salmonprize.com/), [Repository](https://github.com/schmidj/PredictSalmonRuns)
 
 - 📊 **Predicting Recreational Angler Behavior in Time and Space using Machine Learning and App data**  
