@@ -35,12 +35,12 @@ Python · scikit-learn · SQL · R · GIS · MatLab**
 - Modeled recreational fishing activity over time and space  
 - Applied a broad set of ML models including GLMs, random forests, SVMs, and neural networks
 - [Schmid et al. (2025)](https://arxiv.org/abs/2409.17425), [Code](https://github.com/schmidj/PredictingAnglerActivityOntario)  <br>
-<img src="https://github.com/schmidj/assets/blob/main/Project1.png" width = 400>
+<img src="https://github.com/schmidj/assets/blob/main/Project1.jpg" width = 400>
   
 ### **Gender Differences in Recreational Angler Behavior (Bayesian Networks)**  
 **Using Bayesian networks to understand gender-specific patterns in recreational fishing behavior.**  
 - [Schmid et al. (2025)](https://cdnsciencepub.com/doi/10.1139/cjfas-2024-0280) - [Tayebi, Schmid et al. (2025)](https://arxiv.org/abs/2402.07964) <br> 
-<img src="https://github.com/schmidj/assets/blob/main/Project2.png" width = 400 >
+<img src="https://github.com/schmidj/assets/blob/main/Project2.jpg" width = 400 >
   
 
 ## 📁 Additional Research & Modeling
