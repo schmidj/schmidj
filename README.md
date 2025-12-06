@@ -17,7 +17,7 @@ Python · scikit-learn · SQL · R · GIS · MatLab**
 
 **Machine Learning:**  Predictive modeling · Bayesian networks · Time series · Tree-based models · Deep learning  
 **Data Science:** Network science · Simulation modeling · Geospatial analysis · Statistical inference  
-**Tools & Languages:** Python · R · SQL · scikit-learn · NumPy/Pandas · GIS · Matlab  
+**Tools & Languages:** Python · R · SQL · scikit-learn · NumPy/Pandas · GIS · [Power BI](https://github.com/schmidj/Air-Passengers-PowerBI) · Matlab  
 **Other:** Scientific writing · Data visualization 
 
 ---
