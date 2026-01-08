@@ -1,4 +1,4 @@
-# Hi, I'm Julia 👋
+# Hey, I'm Julia 👋
 **Data Scientist · Applied Mathematics · Machine Learning · AI · Environmental Systems Science**
 
 I'm a data scientist with a background in applied mathematics and machine learning, currently working in environmental research. I'm passionate about applying data-driven methods to real-world challenges. Outside of work, I love traveling, sustainability, and cooking!
