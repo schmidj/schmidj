@@ -1,11 +1,7 @@
 # Hey, I'm Julia 👋
 **Data Scientist · Applied Mathematics · Machine Learning · AI · Environmental Systems Science**
 
-I'm a data scientist with a background in applied mathematics and machine learning, currently working in environmental research. I'm passionate about applying data-driven methods to real-world challenges. Outside of work, I love traveling, sustainability, and cooking!
-
-I build machine learning and statistical models to solve real-world ecological, environmental, and sustainability problems.  
-My background spans applied mathematics, ML, geospatial analysis, Bayesian Networks, and ecological simulation.  
-Outside work, I love traveling, sustainability, and cooking.
+I'm a data scientist with a background in applied mathematics and machine learning. I'm passionate about applying data-driven methods to real-world challenges. Outside of work, I love traveling, sustainability, and cooking!
 
 *I'm always open to collaborations, data science roles, or research discussions!*
 
